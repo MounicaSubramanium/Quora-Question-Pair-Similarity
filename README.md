@@ -28,27 +28,27 @@ Refer to the jupyter notebook named 'Quora.ipynb' for more information.
 1. Download the repository on your computer.
 2. Use the links given below to download important files(.csv files, databases) associated with the project -
 
-training data 'Train.csv' file.
+- training data 'Train.csv' file.
 https://drive.google.com/file/d/10QDGTSI5PEV9e7CTpfzsXRpUwRIsJA-J/view
 
-'df_fe_without_preprocessing_train.csv' -
+- 'df_fe_without_preprocessing_train.csv' -
 https://drive.google.com/file/d/1gTfCTD3fz-3NJnfYLm59nZFN3WC3fzfD/view?usp=sharing
 
-'nlp_features_train.csv'- 
+- 'nlp_features_train.csv'- 
 https://drive.google.com/file/d/1JncN1Fyt-ND_yZXOzqEfcRsYMTKqtu7Q/view?usp=sharing
 
-'final_features.csv'-
+- 'final_features.csv'-
 https://drive.google.com/file/d/1S1gLTaumYwEBPbH677Jr9erECVUdvAhv/view?usp=sharing
 
-Database file -
+- Database file -
 https://drive.google.com/file/d/1A5dzEvSpxXYQ5LKgtklor4jWdDV8y_4i/view
 
-Link to text files -
-a. train_n.txt
-https://drive.google.com/file/d/1peorE_ke1MoaZCkrNQpap1ozJ15fuk2s/view?usp=sharing
+- Link to text files -
+   a. train_n.txt
+      https://drive.google.com/file/d/1peorE_ke1MoaZCkrNQpap1ozJ15fuk2s/view?usp=sharing
 
-b. train_p.txt -
-https://drive.google.com/file/d/19KsWPoIMX3O_FrT4We0I1M7reKvFYKRr/view?usp=sharing
+   b. train_p.txt -
+     https://drive.google.com/file/d/19KsWPoIMX3O_FrT4We0I1M7reKvFYKRr/view?usp=sharing
 
 
 3. Run the Jupyter notebooks in the following order -
