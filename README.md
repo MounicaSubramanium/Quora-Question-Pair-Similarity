@@ -51,7 +51,7 @@ https://drive.google.com/file/d/19KsWPoIMX3O_FrT4We0I1M7reKvFYKRr/view?usp=shari
 - Q_Mean_W2V.ipynb
 - ML_models.ipynb
 
-Follow along the project flow to know the right time of using the files downloaded.
+Follow along the project flow to know the right time of using the downloaded files.
 
 ### Install the requirements
  
