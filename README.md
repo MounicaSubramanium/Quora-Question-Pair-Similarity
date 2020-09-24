@@ -15,3 +15,10 @@ https://drive.google.com/file/d/1S1gLTaumYwEBPbH677Jr9erECVUdvAhv/view?usp=shari
 
 Link to database file -
 https://drive.google.com/file/d/1A5dzEvSpxXYQ5LKgtklor4jWdDV8y_4i/view
+
+Link to text files -
+1. train_n.txt
+https://drive.google.com/file/d/1peorE_ke1MoaZCkrNQpap1ozJ15fuk2s/view?usp=sharing
+
+2. train_p.txt -
+https://drive.google.com/file/d/19KsWPoIMX3O_FrT4We0I1M7reKvFYKRr/view?usp=sharing
