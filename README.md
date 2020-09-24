@@ -1,6 +1,11 @@
 # Quora-Question-Pair-Similarity
 This project was involved a Kaggle competition hosted by Quora.com in finding which questions on Quora are duplicates of questions that have already been asked. Predictions were also made whether a pair of questions are duplicates or not.
 
+- It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
+- Used Natural Language Processing and Fuzzy Features for Advanced feature extraction.
+- Compared Logistic Regression, Linear SVM, and XGBoost for finding the best model for classification.
+
+
 
 ## Table of contents
 * [General info](#general-info)
